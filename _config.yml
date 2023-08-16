@@ -1,15 +1,15 @@
 # Configurations
-title:            Vision Lab
-longtitle:        Vision Lab
-author:           Seung-Wook Kim
-email:            swkim@pknu.ac.kr
+title:            Intelligent Multimedia Lab.
+longtitle:        Intelligent Multimedia Lab.
+author:           Keunsoo Ko
+email:            ksko@catholic.ac.kr
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://pknu-vlab.github.io/'
+url:              'https://imlab-cuk.github.io/'
 baseurl:          ''
 rss:              RSS
 
