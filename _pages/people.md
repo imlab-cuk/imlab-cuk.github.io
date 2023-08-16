@@ -10,7 +10,7 @@ layout: post
 ## Professor
 ------------
 <div style="width:150px; height:230px; float:left;">
-<img src="https://raw.githubusercontent.com/cvlab-cuk/cvlab-cuk.github.io/main/images/keunsoo.jpg" width="130" >
+<img src="https://raw.githubusercontent.com/imlab-cuk/imlab-cuk.github.io/main/images/keunsoo.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Keunsoo Ko (고근수)</b></p>
 <p style="line-height: 0.5;">Assistant Professor</p>
