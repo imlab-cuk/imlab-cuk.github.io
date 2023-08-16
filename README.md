@@ -1,25 +1,25 @@
 ---
 layout: home
-title: Vision Lab
+title: Intelligent Multimedia Lab.
 permalink: /
 ---
 
-## Welcome to the Vision Lab.
+## Welcome to the CUK Computer Vision Lab.
 
-부경대학교 전자정보통신공학부 비전연구실(Vision Lab)에서는 객체인식, 영상 화질개선 등을 포함한 컴퓨터 비전 및 영상처리 분야의 다양한 주제로 연구를 수행하고 있습니다. 인공지능 기반의 비전 연구에 관심 있는 학부/석사/박사 연구원을 모집합니다. 관심 있는 분은 김승욱 교수(<swkim@pknu.ac.kr>)에게 연락하기 바랍니다.
+가톨릭대학교 인공지능학과 지능형 멀티미디어 연구실(Intelligent Multimedia Lab.)에서는 컴퓨터 비전 및 영상 처리 분야의 다양한 주제로 연구를 수행하고 있습니다. 
 
 ## Contact Us
 
--  E-mail: <swkim@pknu.ac.kr>
--  +82-51-629-6214
--  Office: 2214B, Bldg. A13, Pukyohng National University, 45, Yongso-ro, Nam-gu, Busan, Republic of Korea
+-  E-mail: <ksko@catholic.ac.kr>
+-  +82-31-0000-0000
+-  Office: T810
 
 ## Research Interest
 
 - Artificial intelligence
 - Deep learning
-- Object detection & recognition
-- Image enhancement
-- Illmumination/color normalization
+- Computer vision
 
-## Latest News
+## News
+[Aug] One paper is accepted on image inpainting in ICCV 2023, one of the major conferences in computer vision.
+- Keunsoo Ko and Chang-Su Kim, “Continuously Masked Transformer for Image Inpainting,” in <i>ICCV</i>, 2023.
