@@ -4,7 +4,7 @@ title: Intelligent Multimedia Lab.
 permalink: /
 ---
 
-## Welcome to the CUK Computer Vision Lab.
+## Welcome to the CUK Intelligent Multimedia Lab.
 
 가톨릭대학교 인공지능학과 지능형 멀티미디어 연구실(Intelligent Multimedia Lab.)에서는 컴퓨터 비전 및 영상 처리 분야의 다양한 주제로 연구를 수행하고 있습니다. 
 
