@@ -11,7 +11,7 @@ permalink: /
 ## Contact Us
 
 -  E-mail: <ksko@catholic.ac.kr>
--  +82-31-0000-0000
+-  +82-2-2164-5522
 -  Office: T810
 
 ## Research Interest
