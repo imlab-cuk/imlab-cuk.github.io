@@ -6,5 +6,5 @@ category: Jekyll
 layout: post
 ---
 
-* Mathematics for AI (2023-2)
+* Machine learning (2023-2)
 * Speech recognition and synthesis (2023-2)
