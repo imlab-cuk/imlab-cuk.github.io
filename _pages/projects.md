@@ -9,12 +9,11 @@ layout: post
 ## On-going Projects
 <div style="height:230px; float:left;">
 <img src="https://raw.githubusercontent.com/imlab-cuk/imlab-cuk.github.io/main/images/item.jpg" width="130">
-</div>
 <p style="line-height: 1.5;"><b>Item Recognition for AI-based Vending Machine</b></p>
-
-&nbsp;
+</div>
 
 <div style="height:230px; float:left;">
 <img src="https://raw.githubusercontent.com/imlab-cuk/imlab-cuk.github.io/main/images/anomal.png" width="130">
-</div>
 <p style="line-height: 1.5;"><b>Anomaly Detection for Printed Circuit Boards (PCBs)</b></p>
+</div>
+
