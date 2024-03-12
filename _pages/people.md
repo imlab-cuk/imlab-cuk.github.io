@@ -29,7 +29,7 @@ layout: post
 <p style="line-height: 1;"><a href="https://cukai.catholic.ac.kr/cukai/index.html">Department of Artificial Intelligence</a></p>
 <p style="line-height: 1;"><a href="https://www.catholic.ac.kr/index.do">The Catholic University of Korea</a></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:ksko@catholic.ac.kr">jmgao@catholic.ac.kr</a></p>
-
+&nbsp;
 <div style="width:150px; height:230px; float:left;">
 <img src="https://raw.githubusercontent.com/imlab-cuk/imlab-cuk.github.io/main/images/empty_woman.png" width="130" >
 </div>
@@ -38,7 +38,7 @@ layout: post
 <p style="line-height: 1;"><a href="https://cukai.catholic.ac.kr/cukai/index.html">Department of Artificial Intelligence</a></p>
 <p style="line-height: 1;"><a href="https://www.catholic.ac.kr/index.do">The Catholic University of Korea</a></p>
 <p style="line-height: 1.5;">E-mail: <a href="mailto:ksko@catholic.ac.kr">minyeong3@naver.com</a></p>
-
+&nbsp;
 <div style="width:150px; height:230px; float:left;">
 <img src="https://raw.githubusercontent.com/imlab-cuk/imlab-cuk.github.io/main/images/empty_man.png" width="130" >
 </div>
