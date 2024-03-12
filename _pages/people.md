@@ -8,7 +8,7 @@ layout: post
 
 
 ## Professor
-<div style="width=300;" float:left;">
+<div style="width=300; float:left;">
 <img src="https://raw.githubusercontent.com/imlab-cuk/imlab-cuk.github.io/main/images/keunsoo.jpg" width="130" >
 <p style="line-height: 1.5;"><b>Keunsoo Ko (고근수)</b></p>
 <p style="line-height: 0.5;">Assistant Professor</p>
