@@ -8,7 +8,7 @@ layout: post
 
 
 ## Professor
-<div style="width=500; height=200; float:left;">
+<div style="width=500; height=200;">
 <img src="https://raw.githubusercontent.com/imlab-cuk/imlab-cuk.github.io/main/images/keunsoo.jpg" width="130" >
 <p style="line-height: 1.5;"><b>Keunsoo Ko (고근수)</b></p>
 <p style="line-height: 0.5;">Assistant Professor</p>
@@ -21,7 +21,7 @@ layout: post
 &nbsp;
 
 ## Student
-<div style="width=500; height=200; float:left;">
+<div style="width=500; height=200;">
 <img src="https://raw.githubusercontent.com/imlab-cuk/imlab-cuk.github.io/main/images/empty_man.png" width="130" >
 <p style="line-height: 1.5;"><b>Jinming Gao (고금명)</b></p>
 <p style="line-height: 0.5;">M.S. Student</p>
@@ -30,7 +30,7 @@ layout: post
 <p style="line-height: 0.5;">E-mail: <a href="mailto:ksko@catholic.ac.kr">jmgao@catholic.ac.kr</a></p>
 </div>
 
-<div style="width=500; height=200; float:left;">
+<div style="width=500; height=200;">
 <img src="https://raw.githubusercontent.com/imlab-cuk/imlab-cuk.github.io/main/images/empty_woman.png" width="130" >
 <p style="line-height: 1.5;"><b>Min-Yeong Kim (김민영)</b></p>
 <p style="line-height: 0.5;">Undergraduate Student</p>
