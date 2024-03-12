@@ -12,6 +12,7 @@ layout: post
 </div>
 <p style="line-height: 1.5;"><b>Item Recognition for AI-based Vending Machine</b></p>
 
+&nbsp;
 
 <div style="height:230px; float:left;">
 <img src="https://raw.githubusercontent.com/imlab-cuk/imlab-cuk.github.io/main/images/anomal.png" width="130">
