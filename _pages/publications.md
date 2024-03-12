@@ -27,7 +27,7 @@ layout: post
 -----------------
 
 1. <font size="3em"> <b>Keunsoo Ko</b> and Chang-Su Kim, "Continuously Masked Transformer for Image Inpainting
-," in <i>ICCV</i>, Paris, France, Oct. 2023.</font>
+," in <i>ICCV</i>, Paris, France, Oct. 2023. [<a href="https://github.com/keunsoo-ko/CMT">code</a>] </font>
 
 1. <font size="3em"> Ji-Soo Kim, <b>Keunsoo Ko</b>, and Chang-Su Kim, "Adaptive Lattice-Aware Image Demosaicking Using Global and Local Information," in <i>ICIP</i>, Abu Dhabi, United Arab Emirates, Oct. 2020.</font>
 
