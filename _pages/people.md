@@ -22,7 +22,7 @@ layout: post
 
 ## Student
 <div style="width=500; height=220;">
-<img src="https://raw.githubusercontent.com/imlab-cuk/imlab-cuk.github.io/main/images/empty_man.png" width="130" >
+<img src="https://raw.githubusercontent.com/imlab-cuk/imlab-cuk.github.io/main/images/jmgao.jpg" width="130" >
 <p style="line-height: 1.5;"><b>Jinming Gao (고금명)</b></p>
 <p style="line-height: 0.5;">M.S. Student</p>
 <p style="line-height: 0.5;"><a href="https://cukai.catholic.ac.kr/cukai/index.html">Department of Artificial Intelligence</a></p>
